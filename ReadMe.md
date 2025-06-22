@@ -2,6 +2,8 @@
 
 This theme brings the elegant Solarized color palette with Osaka-inspired modern minimalism to your Flow Launcher experience.
 
+![Screenshot](./example.png)
+
 ### 🛠️ Installation Steps (for Scoop-based installations)
 
 1. **Clone or download the repository**
